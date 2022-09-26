@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "3994437_add_create_new_plus_positive_icon (2).png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
